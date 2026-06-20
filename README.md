@@ -30,5 +30,3 @@ If you run the simulation, you will notice the cart and pendulum oscillate rapid
 2. Open the file in MATLAB.
 3. Run the script to view the dynamic state plots (Cart Position vs. Time and Angular Displacement vs. Time) followed by the real-time kinematic animation window.
 
-## Simulation Preview
-*(Optional: Drop your converted GIF file here to show off the animation!)*
